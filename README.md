@@ -2,7 +2,7 @@
 
 # Izukia
 
-### AI/ML Engineer · Scientific ML Researcher · Systems Builder
+### Aiming Scientific ML Researcher
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm a Computer Science student focused on AI/ML, scientific computing, and LLM/RAG systems.
+I'm a first-year Computer Science student focused on AI/ML, scientific computing, and LLM/RAG systems.
 
 I learn mostly by building projects: numerical solvers, neural surrogates, local RAG chatbots, Kaggle inference pipelines, and ML/DL components from scratch with NumPy and Python.
 
