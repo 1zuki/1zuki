@@ -2,7 +2,7 @@
 
 # Izukia
 
-### Aiming Scientific ML Researcher
+### CS Major | Computational Physicist
 
 </div>
 
